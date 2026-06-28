@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0684-redundant-connection) |
+| [0687-longest-univalue-path](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0687-longest-univalue-path) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0684-redundant-connection) |
+## Tree
+|  |
+| ------- |
+| [0687-longest-univalue-path](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0687-longest-univalue-path) |
+## Binary Tree
+|  |
+| ------- |
+| [0687-longest-univalue-path](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->
