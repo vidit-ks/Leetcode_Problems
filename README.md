@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0275-h-index-ii) |
+| [0724-find-pivot-index](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0687-longest-univalue-path](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0687-longest-univalue-path) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
