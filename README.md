@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0275-h-index-ii) |
 | [0724-find-pivot-index](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0355-design-twitter) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0898-bitwise-ors-of-subarrays](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0898-bitwise-ors-of-subarrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0898-bitwise-ors-of-subarrays](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0898-bitwise-ors-of-subarrays) |
 <!---LeetCode Topics End-->
