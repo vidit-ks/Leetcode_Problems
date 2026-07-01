@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0275-h-index-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0278-first-bad-version) |
 | [0731-my-calendar-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
 ## Depth-First Search
 |  |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0164-maximum-gap) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
