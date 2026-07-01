@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0355-design-twitter](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## String
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0164-maximum-gap) |
 | [0275-h-index-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0275-h-index-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0724-find-pivot-index](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0164-maximum-gap) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
