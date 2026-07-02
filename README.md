@@ -42,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0365-water-and-jug-problem) |
 | [0684-redundant-connection](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0687-longest-univalue-path) |
 | [0797-all-paths-from-source-to-target](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0365-water-and-jug-problem) |
 | [0684-redundant-connection](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0797-all-paths-from-source-to-target) |
 ## Union-Find
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
+## Math
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
