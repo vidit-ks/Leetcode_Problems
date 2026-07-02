@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0355-design-twitter) |
 | [0731-my-calendar-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0355-design-twitter) |
 ## Dynamic Programming
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0164-maximum-gap) |
+| [0295-find-median-from-data-stream](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Bucket Sort
 |  |
@@ -130,8 +133,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0075-sort-colors) |
+| [0295-find-median-from-data-stream](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0146-lru-cache) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
