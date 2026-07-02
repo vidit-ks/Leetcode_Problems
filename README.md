@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0164-maximum-gap) |
 | [0275-h-index-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0275-h-index-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0164-maximum-gap) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Bucket Sort
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0278-first-bad-version) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
