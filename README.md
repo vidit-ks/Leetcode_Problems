@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0164-maximum-gap) |
 | [0275-h-index-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0275-h-index-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0498-diagonal-traverse](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0724-find-pivot-index](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
@@ -173,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
