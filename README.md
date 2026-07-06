@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0467-unique-substrings-in-wraparound-string](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Queue
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0343-integer-break](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0343-integer-break) |
+| [0467-unique-substrings-in-wraparound-string](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Bit Manipulation
 |  |
