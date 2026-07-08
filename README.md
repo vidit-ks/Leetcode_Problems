@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
+| [0326-power-of-three](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0365-water-and-jug-problem) |
 | [0976-largest-perimeter-triangle](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
