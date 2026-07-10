@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0355-design-twitter](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0355-design-twitter) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0355-design-twitter) |
 ## Heap (Priority Queue)
