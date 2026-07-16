@@ -62,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0365-water-and-jug-problem) |
 | [0684-redundant-connection](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0687-longest-univalue-path) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0365-water-and-jug-problem) |
 | [0684-redundant-connection](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0684-redundant-connection) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0797-all-paths-from-source-to-target) |
 ## Union-Find
 |  |
@@ -84,12 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0337-house-robber-iii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0337-house-robber-iii) |
 | [0687-longest-univalue-path](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0687-longest-univalue-path) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0337-house-robber-iii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0337-house-robber-iii) |
 | [0687-longest-univalue-path](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0687-longest-univalue-path) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -246,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
