@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0693-binary-number-with-alternating-bits) |
+| [0779-k-th-symbol-in-grammar](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Backtracking
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0365-water-and-jug-problem) |
 | [0396-rotate-function](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0396-rotate-function) |
 | [0593-valid-square](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0593-valid-square) |
+| [0779-k-th-symbol-in-grammar](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0976-largest-perimeter-triangle](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
 ## Database
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0326-power-of-three) |
+| [0779-k-th-symbol-in-grammar](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Geometry
 |  |
 | ------- |
