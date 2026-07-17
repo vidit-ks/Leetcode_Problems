@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0075-sort-colors) |
+| [0130-surrounded-regions](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0164-maximum-gap](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0275-h-index-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0275-h-index-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0130-surrounded-regions](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0337-house-robber-iii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0337-house-robber-iii) |
 | [0365-water-and-jug-problem](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0365-water-and-jug-problem) |
 | [0684-redundant-connection](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0684-redundant-connection) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0365-water-and-jug-problem](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0365-water-and-jug-problem) |
 | [0684-redundant-connection](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0684-redundant-connection) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0498-diagonal-traverse](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 ## Simulation
 |  |
