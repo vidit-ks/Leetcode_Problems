@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0337-house-robber-iii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0337-house-robber-iii) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0797-all-paths-from-source-to-target](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0797-all-paths-from-source-to-target) |
 ## Sorting
 |  |
