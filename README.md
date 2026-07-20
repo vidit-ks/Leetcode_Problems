@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0164-maximum-gap) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 ## Divide and Conquer
 |  |
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
