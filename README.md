@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0179-largest-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0467-unique-substrings-in-wraparound-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0221-maximal-square) |
 | [0275-h-index-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0275-h-index-ii) |
 | [0284-peeking-iterator](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0284-peeking-iterator) |
+| [0318-maximum-product-of-word-lengths](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0334-increasing-triplet-subsequence](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0396-rotate-function) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0136-single-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0693-binary-number-with-alternating-bits](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0898-bitwise-ors-of-subarrays) |
