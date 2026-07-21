@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
