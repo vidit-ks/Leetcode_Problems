@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0221-maximal-square](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0221-maximal-square) |
 | [0275-h-index-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0284-peeking-iterator) |
 | [0318-maximum-product-of-word-lengths](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0334-increasing-triplet-subsequence](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0283-move-zeroes](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 ## Doubly-Linked List
