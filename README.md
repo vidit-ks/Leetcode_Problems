@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0337-house-robber-iii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0343-integer-break) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0204-count-primes) |
+| [0233-number-of-digit-one](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0343-integer-break) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [0779-k-th-symbol-in-grammar](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Geometry
