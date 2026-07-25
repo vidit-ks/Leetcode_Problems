@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0284-peeking-iterator) |
+| [0312-burst-balloons](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0334-increasing-triplet-subsequence](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
+| [0312-burst-balloons](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0396-rotate-function) |
