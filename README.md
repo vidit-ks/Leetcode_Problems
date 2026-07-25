@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0176-second-highest-salary) |
+| [0182-duplicate-emails](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0197-rising-temperature) |
 | [0596-classes-with-at-least-5-students](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0596-classes-with-at-least-5-students) |
