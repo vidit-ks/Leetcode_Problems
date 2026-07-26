@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0355-design-twitter) |
+| [0445-add-two-numbers-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0365-water-and-jug-problem) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0396-rotate-function) |
+| [0445-add-two-numbers-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0519-random-flip-matrix](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0519-random-flip-matrix) |
 | [0593-valid-square](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0593-valid-square) |
 | [0779-k-th-symbol-in-grammar](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0388-longest-absolute-file-path](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0388-longest-absolute-file-path) |
+| [0445-add-two-numbers-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
