@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0388-longest-absolute-file-path) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0337-house-robber-iii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0337-house-robber-iii) |
 | [0365-water-and-jug-problem](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0365-water-and-jug-problem) |
+| [0388-longest-absolute-file-path](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0388-longest-absolute-file-path) |
 | [0684-redundant-connection](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0687-longest-univalue-path) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0316-remove-duplicate-letters) |
+| [0388-longest-absolute-file-path](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0388-longest-absolute-file-path) |
 ## Divide and Conquer
 |  |
 | ------- |
