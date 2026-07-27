@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0640-solve-the-equation](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0640-solve-the-equation) |
+| [0647-palindromic-substrings](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 ## Queue
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0494-target-sum](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0647-palindromic-substrings](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0647-palindromic-substrings) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Bit Manipulation
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0283-move-zeroes](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
+| [0647-palindromic-substrings](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0647-palindromic-substrings) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 ## Doubly-Linked List
 |  |
