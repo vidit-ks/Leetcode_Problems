@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0519-random-flip-matrix](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0519-random-flip-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 ## String
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 ## Array
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
+| [0594-longest-harmonious-subsequence](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0724-find-pivot-index) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0976-largest-perimeter-triangle](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
 ## Bucket Sort
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 ## Matrix
 |  |
 | ------- |
