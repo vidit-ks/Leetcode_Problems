@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0640-solve-the-equation](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0640-solve-the-equation) |
 | [0692-top-k-frequent-words](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 ## Queue
 |  |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0519-random-flip-matrix](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0519-random-flip-matrix) |
 | [0593-valid-square](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0593-valid-square) |
+| [0640-solve-the-equation](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0640-solve-the-equation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0976-largest-perimeter-triangle](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
 ## Database
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
+| [0640-solve-the-equation](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0640-solve-the-equation) |
 ## Greedy
 |  |
 | ------- |
