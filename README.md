@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0494-target-sum](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0396-rotate-function) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0494-target-sum](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Bit Manipulation
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0797-all-paths-from-source-to-target) |
 ## Sorting
 |  |
