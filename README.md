@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0374-guess-number-higher-or-lower](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0731-my-calendar-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Two Pointers
 |  |
 | ------- |
