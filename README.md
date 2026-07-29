@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0221-maximal-square) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
