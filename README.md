@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
+| [0292-nim-game](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0365-water-and-jug-problem) |
@@ -424,9 +425,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0062-unique-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
