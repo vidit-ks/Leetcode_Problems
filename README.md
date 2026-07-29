@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0118-pascals-triangle) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0204-count-primes) |
@@ -423,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
