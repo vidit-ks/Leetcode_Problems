@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0334-increasing-triplet-subsequence](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0396-rotate-function) |
 | [0419-battleships-in-a-board](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0419-battleships-in-a-board) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0355-design-twitter) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0658-find-k-closest-elements](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 ## Dynamic Programming
