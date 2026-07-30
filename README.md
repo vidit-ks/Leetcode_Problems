@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0204-count-primes) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0264-ugly-number-ii) |
