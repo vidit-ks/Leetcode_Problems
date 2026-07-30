@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0388-longest-absolute-file-path) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0459-repeated-substring-pattern](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0459-repeated-substring-pattern) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -449,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0292-nim-game) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
