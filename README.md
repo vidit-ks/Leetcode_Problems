@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0553-optimal-division](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0553-optimal-division) |
 | [0594-longest-harmonious-subsequence](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0388-longest-absolute-file-path](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0388-longest-absolute-file-path) |
 | [0445-add-two-numbers-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0316-remove-duplicate-letters) |
+| [0503-next-greater-element-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
