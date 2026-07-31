@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
+| [0553-optimal-division](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0553-optimal-division) |
 | [0594-longest-harmonious-subsequence](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0658-find-k-closest-elements](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0553-optimal-division](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0553-optimal-division) |
 | [0647-palindromic-substrings](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0647-palindromic-substrings) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Bit Manipulation
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0519-random-flip-matrix](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0519-random-flip-matrix) |
+| [0553-optimal-division](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0553-optimal-division) |
 | [0593-valid-square](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0593-valid-square) |
 | [0640-solve-the-equation](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0640-solve-the-equation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
