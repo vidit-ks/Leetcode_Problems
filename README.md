@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0553-optimal-division](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0553-optimal-division) |
 | [0647-palindromic-substrings](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0647-palindromic-substrings) |
+| [0650-2-keys-keyboard](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0650-2-keys-keyboard) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Bit Manipulation
 |  |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0553-optimal-division) |
 | [0593-valid-square](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0593-valid-square) |
 | [0640-solve-the-equation](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0640-solve-the-equation) |
+| [0650-2-keys-keyboard](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0650-2-keys-keyboard) |
 | [0779-k-th-symbol-in-grammar](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0976-largest-perimeter-triangle](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
 ## Database
