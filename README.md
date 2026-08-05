@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0731-my-calendar-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
+| [0855-exam-room](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0855-exam-room) |
 ## Segment Tree
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0731-my-calendar-ii](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0731-my-calendar-ii) |
+| [0855-exam-room](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0855-exam-room) |
 ## Linked List
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0658-find-k-closest-elements](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
+| [0855-exam-room](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0855-exam-room) |
 ## Dynamic Programming
 |  |
 | ------- |
