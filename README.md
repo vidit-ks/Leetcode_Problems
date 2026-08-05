@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
+| [0859-buddy-strings](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0859-buddy-strings) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0640-solve-the-equation) |
 | [0647-palindromic-substrings](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
+| [0859-buddy-strings](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0859-buddy-strings) |
 ## Queue
 |  |
 | ------- |
