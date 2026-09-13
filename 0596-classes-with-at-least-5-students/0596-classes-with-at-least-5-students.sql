@@ -1,4 +1,4 @@
-SELECT class
-FROM Courses
-GROUP BY class
-HAVING COUNT(student) >= 5;
+select distinct class
+from courses
+group by class
+having count(student)>4;
