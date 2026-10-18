@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0652-find-duplicate-subtrees) |
 | [0692-top-k-frequent-words](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0859-buddy-strings](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0859-buddy-strings) |
+| [2352-equal-row-and-column-pairs](https://github.com/vidit-ks/Leetcode_Problems/tree/master/2352-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0976-largest-perimeter-triangle](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
+| [2352-equal-row-and-column-pairs](https://github.com/vidit-ks/Leetcode_Problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -426,11 +428,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0419-battleships-in-a-board](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
+| [2352-equal-row-and-column-pairs](https://github.com/vidit-ks/Leetcode_Problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 | [0640-solve-the-equation](https://github.com/vidit-ks/Leetcode_Problems/tree/master/0640-solve-the-equation) |
+| [2352-equal-row-and-column-pairs](https://github.com/vidit-ks/Leetcode_Problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Greedy
 |  |
 | ------- |
